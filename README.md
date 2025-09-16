@@ -6,8 +6,8 @@ When putting my standard filament from Jayo / Sunlu on the AD5X I get problems a
 I have attached stl-files for 72, 72.5, 73, 73.5 and 74 mm holes below. The provided openscad file can be used for other diameters, either by editing the file direct or by using the Customizer in openscad. This project is dependent on the [BOSL2](https://github.com/BelfrySCAD/BOSL2/wiki) library
 
 ![Rendered image](images/sh_adapter.png)
-![Example 1]()images/AD5X_spool_holder_1.png
-![Example 2]()images/AD5X_spool_holder_2.png
+![Example 1](images/AD5X_spool_holder_1.png)
+![Example 2](images/AD5X_spool_holder_2.png)
 
 ## Usage
 Measure your spool and print one holder for each side, I have found that the spools often (always?) have different diameters on the two sides. 
