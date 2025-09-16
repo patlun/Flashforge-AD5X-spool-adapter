@@ -21,8 +21,8 @@ I don't believe you need any specific settings, I used the ones below
 **Infill:**  8% tri-hexagon/gyroid
 
 ## Where to find it
-[**Github**](https://github.com/patlun/Flashforge-AD5X-spool-adapter)
-[**Printables.com**](https://www.printables.com/model/1416539-adapter-large-hole-73-mm-spools-to-flashforge-ad5x)
+- [**Github**](https://github.com/patlun/Flashforge-AD5X-spool-adapter)
+- [**Printables.com**](https://www.printables.com/model/1416539-adapter-large-hole-73-mm-spools-to-flashforge-ad5x)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
