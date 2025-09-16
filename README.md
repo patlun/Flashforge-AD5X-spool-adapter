@@ -3,6 +3,8 @@
 ## Description
 When putting my standard filament from Jayo / Sunlu on the AD5X I get problems as the spool holder is about 56 mm while the Jayo spools are somewhere between 71 and 75 mm. I created a simple adapter to solve that problem. After I started use my adapter I found out that there are lots of adapters out there, I suppose the world need one more. My variant uses about 13g filament and takes 13:30 minutes in my Creality K1C, and about 20 minutes in the AD5X that I have not finish tuning yet.
 
+You need to print two adapters, one for each side of the spool, for my Jayo spools I have found that I need to use two different sizes and different spools are not consistent.
+
 I have attached stl-files for 72, 72.5, 73, 73.5 and 74 mm holes below. The provided openscad file can be used for other diameters, either by editing the file direct or by using the Customizer in openscad. This project is dependent on the [BOSL2](https://github.com/BelfrySCAD/BOSL2/wiki) library
 
 ![Rendered image](images/sh_adapter.png)
